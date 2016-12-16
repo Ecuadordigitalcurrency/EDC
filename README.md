@@ -23,22 +23,22 @@ The network shares a common consolidated ledger known as the "block chain". This
 
 Ecuador Currency What are the advantages:
 
-1. Freedom to pay: Any amount in the world can be sent and received in any amount of Ecuador. Not subject to bank holidays, nor subject to national boundaries, there is no mandatory restrictions. The Ecuadorian currency gives its users complete control over their digital currency.
+Freedom to pay: Any amount in the world can be sent and received in any amount of Ecuador. Not subject to bank holidays, nor subject to national boundaries, there is no mandatory restrictions. The Ecuadorian currency gives its users complete control over their digital currency.
 
-2. Low handling fees: ECBs are cheaper to use, and the Merchant processor can help traders trade Ecuador, convert the Ecuadorian currency into legal tender and deposit funds directly into the merchant's bank account each day. A small fee, since these services are initiated by the Ecuadorian currency, tam costs than other third-party payment or credit card much cheaper, in addition to the completion of the Ecuadorian currency through the exchange transactions into the national currency will also receive a small amount of legal fees .
+Low handling fees: ECBs are cheaper to use, and the Merchant processor can help traders trade Ecuador, convert the Ecuadorian currency into legal tender and deposit funds directly into the merchant's bank account each day. A small fee, since these services are initiated by the Ecuadorian currency, tam costs than other third-party payment or credit card much cheaper, in addition to the completion of the Ecuadorian currency through the exchange transactions into the national currency will also receive a small amount of legal fees .
 
-3. Lower business risk: Ecuador currency trading is very safe, it does not contain any user's personal information. This avoids the loss of business due to fraudulent chargebacks, the use of Ecuador currency trading procedures are lower, effectively reducing the operating costs of businesses.
+Lower business risk: Ecuador currency trading is very safe, it does not contain any user's personal information. This avoids the loss of business due to fraudulent chargebacks, the use of Ecuador currency trading procedures are lower, effectively reducing the operating costs of businesses.
 
-4. Security in control: Ecuador users have full control over their transactions, and merchants will not be forced to receive unwanted or unnoticed charges, as in other payment methods, and do not pay for Ecuador Personal confidence and transaction binding. This can be effectively stolen from the identity of the house. Users of Ecuadorian currency can also protect their digital assets with backup and encryption.
+Security in control: Ecuador users have full control over their transactions, and merchants will not be forced to receive unwanted or unnoticed charges, as in other payment methods, and do not pay for Ecuador Personal confidence and transaction binding. This can be effectively stolen from the identity of the house. Users of Ecuadorian currency can also protect their digital assets with backup and encryption.
 
-5. Transparency and neutrality: Any transaction information on the Ecuadorian currency can be found in the block chain, any user can clearly verify and ready to use. No person or organization can control or manipulate the Ecuadorian currency agreement because it is securely encrypted. This makes the core of the Ecuadorian currency can be trusted to be completely neutral.
+Transparency and neutrality: Any transaction information on the Ecuadorian currency can be found in the block chain, any user can clearly verify and ready to use. No person or organization can control or manipulate the Ecuadorian currency agreement because it is securely encrypted. This makes the core of the Ecuadorian currency can be trusted to be completely neutral.
 
-6. The Ecuadorian currency can only take one minute to process a block chain, while the bit currency takes 10 minutes to deal with a block chain, the transaction faster.
+The Ecuadorian currency can only take one minute to process a block chain, while the bit currency takes 10 minutes to deal with a block chain, the transaction faster.
 
-7. Ecuadorian currency in China limited the total exploitation of 50 million, about 3-5 years time mining.
+Ecuadorian currency in China limited the total exploitation of 50 million, about 3-5 years time mining.
 
-8. Ecuador currency using SHA256 encryption algorithm, fast POW workload certification mechanism + SSL protocol
+Ecuador currency using SHA256 encryption algorithm, fast POW workload certification mechanism + SSL protocol
 
-9. Ecuador's currency is only one minute to generate blocks, the need for six transactions confirmed that the actual transaction is only 10 minutes, while the actual transaction of the bit currency actually takes 30 minutes to 1 hour.
+Ecuador's currency is only one minute to generate blocks, the need for six transactions confirmed that the actual transaction is only 10 minutes, while the actual transaction of the bit currency actually takes 30 minutes to 1 hour.
 
-10. The Ecuadorian currency is expected to be fully mined and circulated in the market in about three to five years, with a much shorter time-to-market and a higher demand than Bitcoin.
+The Ecuadorian currency is expected to be fully mined and circulated in the market in about three to five years, with a much shorter time-to-market and a higher demand than Bitcoin.
